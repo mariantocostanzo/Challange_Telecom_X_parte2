@@ -74,22 +74,4 @@ Este proyecto tiene como objetivo principal **predecir la cancelación de client
 
 ---
 
-## ▶️ Instrucciones para Ejecutar
-
-### Requisitos
-
-Instalar las siguientes bibliotecas de Python:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-### Ejecutar
-
-1. Cloná este repositorio o descargá los archivos.
-2. Asegurate de tener el archivo `datos_tratados.csv` en la misma carpeta del cuaderno.
-3. Abrí y ejecutá `Telecom_X_Parte2.ipynb`.
-
----
-
 📬 Consultas o sugerencias: ¡bienvenidas!
