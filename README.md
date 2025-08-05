@@ -55,15 +55,15 @@ Este proyecto tiene como objetivo principal **predecir la cancelación de client
 
 ### Matriz de Confusión - Regresión Logística
 
-![Matriz de Confusión - Regresión Logística](visualizaciones/matriz-regresion.png)
+![Matriz de Confusión - Regresión Logística](visualizaciones/matriz-regresion_logistica.png)
 
 ### Matriz de Confusión - Random Forest
 
-![Matriz de Confusión - Random Forest](visualizaciones/matriz-ramdom.png)
+![Matriz de Confusión - Random Forest](visualizaciones/matriz-random.png)
 
 ### Comparación de Modelos (Accuracy)
 
-![Comparación de Modelos](visualizaciones/comparacion_de_modelos.png)
+![Comparación de Modelos](visualizaciones/comparacion_rendimientos.png)
 
 ---
 
