@@ -1,3 +1,4 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariantocostanzo/Challange_Telecom_X_parte2/blob/main/telecom_X_parte%202.ipynb)
 
 # 📊 Proyecto Telecom X - Parte 2: Predicción de Cancelación de Clientes (Churn)
 
